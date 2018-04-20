@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "2423273976",
+    "firebase_url": "https://fir-notifs-6e1d2.firebaseio.com",
+    "project_id": "fir-notifs-6e1d2",
+    "storage_bucket": "fir-notifs-6e1d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2423273976:android:0ce3f8ce313e04b4",
+        "android_client_info": {
+          "package_name": "com.firebasenotifs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2423273976-svuapo06sv8vi1a21dua8ci2gp57rosj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkdABwcD15cSXW4KUcSnLnJTMdaXeqsgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
